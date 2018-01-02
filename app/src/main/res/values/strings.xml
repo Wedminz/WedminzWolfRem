@@ -3,4 +3,6 @@
     <string name="test_name">WolfReminder</string>
     <string name="search_title">Search</string>
     <string name="notification_title">Notification</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
 </resources>
